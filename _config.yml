@@ -4,7 +4,7 @@
 
 # Site
 title: Edwin的Blog
-subtitle:
+subtitle: Everything has a reason
 description:
 author: Edwin Wang
 language: zh-Hans
@@ -66,9 +66,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman
-stylus:
-  compress: true
+theme: light-ch
+# stylus:
+#   compress: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

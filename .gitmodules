@@ -1,0 +1,4 @@
+[submodule "themes"]
+	ignore = untracked
+[submodule "themes/jacman"]
+	ignore = untracked
